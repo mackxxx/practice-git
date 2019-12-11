@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-aaac
-=======
-reere
->>>>>>> second-branch
+rerere
